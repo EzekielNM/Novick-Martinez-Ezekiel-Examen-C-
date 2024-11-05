@@ -12,5 +12,7 @@
 int main() {
     verificacion();
     dia();
+    promedio();
+    promocion();
     return 0;
 }
